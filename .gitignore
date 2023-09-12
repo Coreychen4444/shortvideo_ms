@@ -22,3 +22,7 @@ go.work
 
 # env
 .env
+
+# https crt & key
+*.crt
+*.key
